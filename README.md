@@ -1,7 +1,7 @@
 # Background color extractor
 
-###Input images: 
+### Input images: 
 ![input images](examples/original_images.png)
 
-###Result: 
+### Result: 
 ![result images](examples/extracted_images.png)
